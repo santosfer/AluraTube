@@ -1,0 +1,32 @@
+{
+    "name": "Fernanda Santos",
+    "job": "Dev jr",
+    "github": "santosfer",
+    "playlists": {
+        "iniciando": [
+            {
+                "title": "título",
+                "url": "url",
+                "thumb": "img"
+            },
+            {
+                "title": "título",
+                "url": "url",
+                "thumb": "img"
+            }
+        ],
+        "mente-saudavel": [
+            {
+                "title": "título",
+                "url": "url",
+                "thumb": "img"
+            },
+            {
+                "title": "título",
+                "url": "url",
+                "thumb": "img"
+            }
+
+        ]
+    }
+}
