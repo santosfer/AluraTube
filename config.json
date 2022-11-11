@@ -1,32 +1,79 @@
 {
     "name": "Fernanda Santos",
     "job": "Dev jr",
+    "bg": "https://images.unsplash.com/photo-1586776977607-310e9c725c37?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTd8ODMxNzEwMnx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
     "github": "santosfer",
     "playlists": {
-        "iniciando": [
+        "dev starter pack": [
             {
-                "title": "título",
-                "url": "url",
-                "thumb": "img"
+                "title": "Como personalizar o seu perfil no Github (Readme)",
+                "url": "https://youtu.be/TsaLQAetPLU",
+                "thumb": "https://img.youtube.com/vi/TsaLQAetPLU/hqdefault.jpg"
             },
             {
-                "title": "título",
-                "url": "url",
-                "thumb": "img"
+                "title": "VSCode: Dicas e Truques",
+                "url": "https://youtu.be/C3o9KwOHeCk",
+                "thumb": "https://img.youtube.com/vi/C3o9KwOHeCk/hqdefault.jpg"
+            },
+            {
+                "title": "CSS FlexBox: Dicas para começar",
+                "url": "https://youtu.be/326-B1avuYo",
+                "thumb": "https://img.youtube.com/vi/326-B1avuYo/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
             }
         ],
-        "mente-saudavel": [
+        "Inspirações": [
             {
-                "title": "título",
-                "url": "url",
-                "thumb": "img"
+                "title": "Abstract: The Art of Design | Paula Scher: Graphic Design",
+                "url": "https://youtu.be/LCfBYE97rFk",
+                "thumb": "https://img.youtube.com/vi/LCfBYE97rFk/hqdefault.jpg"
             },
             {
-                "title": "título",
-                "url": "url",
-                "thumb": "img"
+                "title": "Brene Brown - O poder da vulnerabilidade",
+                "url": "https://youtu.be/iCvmsMzlF7o",
+                "thumb": "https://img.youtube.com/vi/iCvmsMzlF7o/hqdefault.jpg"
+            },
+            {
+                "title": "Tim Urban: Inside the mind of a master procrastinator",
+                "url": "https://youtu.be/arj7oStGLkU",
+                "thumb": "https://img.youtube.com/vi/arj7oStGLkU/hqdefault.jpg"
+            },
+            {
+                "title": "Niilismo Otimista",
+                "url": "https://youtu.be/MBRqu0YOH14",
+                "thumb": "https://img.youtube.com/vi/MBRqu0YOH14/hqdefault.jpg"
+            },
+            {
+                "title": "Bob Ross: Happy Accidents, Betrayal & Greed",
+                "url": "https://youtu.be/J6JuA4qNU30",
+                "thumb": "https://img.youtube.com/vi/J6JuA4qNU30/hqdefault.jpg"
             }
-
+        ],
+        "Reflexões": [
+            {
+                "title": "7 Coisas que precisa de saber sobre psicoterapia",
+                "url": "https://youtu.be/2Xi2ty-uHe0",
+                "thumb": "https://img.youtube.com/vi/2Xi2ty-uHe0/hqdefault.jpg"
+            },
+            {
+                "title": "O sentido da vida em 60s",
+                "url": "https://youtu.be/iUdhJ_S_z3w",
+                "thumb": "https://img.youtube.com/vi/iUdhJ_S_z3w/hqdefault.jpg"
+            },
+            {
+                "title": "Superando vozes internas",
+                "url": "https://youtu.be/gGuZVuUBeiQ",
+                "thumb": "https://img.youtube.com/vi/gGuZVuUBeiQ/hqdefault.jpg"
+            },
+            {
+                "title": "Como a arte pode transformar a internet",
+                "url": "https://youtu.be/783hwpJTjlo",
+                "thumb": "https://img.youtube.com/vi/783hwpJTjlo/hqdefault.jpg"
+            }
         ]
     }
 }
