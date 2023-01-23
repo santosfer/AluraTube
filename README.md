@@ -12,7 +12,7 @@ ImersãoReact é um evento exclusivo e gratuito, promovido pela Alura para ensin
 <br>
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/FnK0r4iXkAIakyp?format=jpg&name=900x900">
+  <img src="https://pbs.twimg.com/media/FnK29-DX0AArcL7?format=jpg&name=small">
 </p>
 
 ## 🚀 Tecnologias
